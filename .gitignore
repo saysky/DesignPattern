@@ -34,8 +34,4 @@ nbdist/
 *.project
 *.factorypath
 
-### 屏蔽，需要完整代码连续博主
-*.ftl
-/templates
-/static
 
